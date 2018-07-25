@@ -1,8 +1,5 @@
 ﻿/*
-注意事项:
-节点按照驼峰命名,否则无法达到最佳效果. 如: labText, sprIcon, btnCloseWindow;
-所有lab开头(大小写敏感, 下同)的UILabel, spr开头的UISprite, btn开头包含碰撞的节点为自动生成代码对象;
-by wcheng
+lua UI 脚本导出工具 by glegoo
  */
 using UnityEditor;
 using UnityEngine;
